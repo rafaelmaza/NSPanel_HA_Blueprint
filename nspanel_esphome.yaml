@@ -83,7 +83,7 @@ ota:
   num_attempts: 3
 
 ##### LOGGER #####
-# logger:
+logger:
 #  baud_rate: 0
 #  level: WARN
 
